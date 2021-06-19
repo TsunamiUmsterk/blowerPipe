@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.blowButton {
+  background-color: rgb(255, 153, 0);
+  height: 50px;
+  width: 200px;
+  font-size: 25px;
+}
